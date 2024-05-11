@@ -1,0 +1,16 @@
+{
+  "name": "data-exchange-comparison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pbjs": "^0.0.14",
+    "protobufjs": "^7.3.0"
+  }
+}
